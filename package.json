@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/namdevel/cloudflare-adapter#readme",
   "dependencies": {
-    "body-parser": "^2.3.0",
+    "body-parser": "^2.4.0",
     "dotenv": "^16.1.4",
     "express": "^5.2.1",
     "vite": "^6.4.3",
